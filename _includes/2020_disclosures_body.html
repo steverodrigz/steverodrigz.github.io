@@ -1,4 +1,7 @@
 <body>
+  {% if jekyll.environment == "production" %}
+    {% include gtag2.html %}
+  {% endif %}
   <!-- Preloading -->
   <div id="preloader">
     <div class="spinner">

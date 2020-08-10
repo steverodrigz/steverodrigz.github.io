@@ -1,4 +1,7 @@
 <body>
+  {% if jekyll.environment == "production" %}
+    {% include gtag2.html %}
+  {% endif %}
   <!-- Preloading -->
   <div id="preloader">
     <div class="spinner">
@@ -57,7 +60,7 @@
             <h2>Culture Builder of the Year</h2>
             <p>NOMINATION FOR TECHNICAL.LY/DC AWARDS.</p>
           </div>
-          <div class="col-lg-3 col-sm-6 service"> <i style='colore:#000;' class="fas fa-life-ring"></i>
+          <div class="col-lg-3 col-sm-6 service"> <i style='colore:#000;' class="fas fa-trophy"></i>
             <h2>GEW USA Community Catalyst</h2>
             <p>AWARD AT GLOBAL ENTREPRENEURSHIP CONGRESS IN MANAMA, BAHRAIN.</p>
           </div>
