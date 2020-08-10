@@ -1,0 +1,101 @@
+<body>
+  {% if jekyll.environment == "production" %}
+    {% include gtag2.html %}
+  {% endif %}
+  <!-- Preloading -->
+  <div id="preloader" class="preloader-main">
+    <div class="preloader spinner-jumper-container">
+      <div class="spinner-section top">
+        <div class="rotator"></div>
+      </div>
+      <div class="spinner-section bottom">
+        <div class="rotator"></div>
+      </div>
+    </div>
+  </div>
+  <div class="page-loader show"></div>
+  <main>
+    <!-- HEADER
+  ================================================== -->
+    <header>
+      <!-- Logo -->
+      <a href="{{ site.url }}" class="logo">
+        <img src="{{ site.url }}/assets/2020/img/logo.png">
+      </a>
+      <!-- Menu -->
+      <div class="menu"> <span></span>  <span></span>
+      </div>
+    </header>
+    <!-- SLIDER
+  ================================================== -->
+    <div class="page-view">
+      <div class="project">
+        <div class="text">
+          <h1 class="title">Steven A.<br/>Rodriguez</h1>
+          <a data-type="ajax-load" href="#" class="see-more">more coming soon</a>
+          <br/>&nbsp;
+          <p><i class="fas fa-bolt" style='color:#767676'></i> <span style='color:#767676'>by</span><br><a href="https://www.bloomshift.com?utm_source=stevenarodriguez.com" target="_blank"><img width="150" src="https://www.bloomshift.com/wp-content/uploads/bloom-banner-1901.png" alt="BloomShift agency badge"></a></p>
+        </div>
+        <div class="image" style="background-image: url({{ site.url }}/assets/2020/img/about.jpg);"></div>
+      </div>
+      <!--
+      <div class="project">
+        <div class="text">
+          <span class="categorie">Basketball</span>
+          <span class="number">02</span>
+          <h1 class="title">Kevin Love</h1>
+          <a data-type="ajax-load" href="{{ site.url }}/portfolio-two.html" class="see-more">see more</a>
+        </div>
+        <div class="image" style="background-image: url({{ site.url }}/assets/2020/img/works/work-2/01.jpg);"></div>
+      </div>
+      <div class="project">
+        <div class="text">
+          <span class="categorie">Lifestyle</span>
+          <span class="number">03</span>
+          <h1 class="title">Isolation</h1>
+          <a data-type="ajax-load" href="{{ site.url }}/portfolio-three.html" class="see-more">see more</a>
+        </div>
+        <div class="image" style="background-image: url({{ site.url }}/assets/2020/img/works/work-3/01.jpg);"></div>
+      </div>
+      <div class="project">
+        <div class="text">
+          <span class="categorie">Fitness</span>
+          <span class="number">04</span>
+          <h1 class="title">Exo Protein</h1>
+          <a data-type="ajax-load" href="{{ site.url }}/portfolio-four.html" class="see-more">see more</a>
+        </div>
+        <div class="image" style="background-image: url({{ site.url }}/assets/2020/img/works/work-4/01.jpg);"></div>
+      </div>
+      <div class="project">
+        <div class="text">
+          <span class="categorie">Branding</span>
+          <span class="number">05</span>
+          <h1 class="title">Vokyl Erupt</h1>
+          <a data-type="ajax-load" href="{{ site.url }}/portfolio-five.html" class="see-more">see more</a>
+        </div>
+        <div class="image" style="background-image: url({{ site.url }}/assets/2020/img/works/work-5/01.jpg);"></div>
+      </div>
+      -->
+    </div>
+    <div class="slider-bottom">
+      <!-- left arrows -->
+      <div class="arrows">
+        <div class="arrow previous"> <i class="fas fa-angle-left"></i>
+        </div>
+        <div class="arrow next"> <i class="fas fa-angle-right"></i>
+        </div>
+      </div>
+      <!-- All Projects -->
+      <!--<a class="all-link" href="{{ site.url }}/all-projects" data-type="ajax-load">See All Projects</a>-->
+      <!-- Social Links -->
+      <div class="social float-right">
+        <a href="https://linkedin.com/in/stevenarodriguez" target="_blank"><i class="fab fa-linkedin"></i>  </a>
+        <a href="https://fb.me/stvnrco" target="_blank"><i class="fab fa-facebook-f"></i>  </a>
+        <a href="https://twitter.com/steverodrigz" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i>  </a>
+        <a href="https://instagram.com/steverodrigz" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i>  </a>
+      </div>
+    </div>
+    {% include 2020_menu.html %}
+  </main>
+  {% include 2020_js.html %}
+</body>
