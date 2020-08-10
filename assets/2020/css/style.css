@@ -269,8 +269,8 @@ header{
 }
 
 .page-loader.out {
-  -webkit-mask: url({{ site.url }}/assets/2020/img/sprite-2.png);
-  mask: url({{ site.url }}/assets/2020/img/sprite-2.png);
+  -webkit-mask: url(../img/sprite-2.png);
+  mask: url(../img/sprite-2.png);
   -webkit-mask-size: 1600% 100%;
   mask-size: 1600% 100%;
   -webkit-animation: mask-play .5s steps(15) forwards;
@@ -278,8 +278,8 @@ header{
 }
 
 .page-loader.in {
-  -webkit-mask: url({{ site.url }}/assets/2020/img/sprite-2.png);
-  mask: url({{ site.url }}/assets/2020/img/sprite-2.png);
+  -webkit-mask: url(../img/sprite-2.png);
+  mask: url(../img/sprite-2.png);
   -webkit-mask-size: 1600% 100%;
   mask-size: 1600% 100%;
   -webkit-animation: mask-play .5s steps(15) reverse;
@@ -508,13 +508,13 @@ header .menu:hover > span{
 }
 
 .page-view {
-  background: url({{ site.url }}/assets/2020/img/sprite-2.png) no-repeat -9999px -9999px;
+  background: url(../img/sprite-2.png) no-repeat -9999px -9999px;
 }
 
 
 .page-view .project.hide {
-  -webkit-mask: url({{ site.url }}/assets/2020/img/sprite-2.png);
-          mask: url({{ site.url }}/assets/2020/img/sprite-2.png);
+  -webkit-mask: url(../img/sprite-2.png);
+          mask: url(../img/sprite-2.png);
   -webkit-mask-size: 1600% 100%;
           mask-size: 1600% 100%;
   -webkit-animation: mask-play .5s steps(15) forwards;
@@ -587,8 +587,8 @@ header .menu:hover > span{
 }
 
 .active{
-  -webkit-mask: url({{ site.url }}/assets/2020/img/sprite-right.png);
-   mask: url({{ site.url }}/assets/2020/img/sprite-right.png);
+  -webkit-mask: url(../img/sprite-right.png);
+   mask: url(../img/sprite-right.png);
   -webkit-mask-size: 1280% 100%;
   mask-size: 1280% 100%;
   -webkit-animation: mask-play .7s steps(11) forwards;
@@ -603,8 +603,8 @@ header .menu:hover > span{
 }
 
 .passive{
-  -webkit-mask: url({{ site.url }}/assets/2020/img/sprite-right.png);
-   mask: url({{ site.url }}/assets/2020/img/sprite-right.png);
+  -webkit-mask: url(../img/sprite-right.png);
+   mask: url(../img/sprite-right.png);
   -webkit-mask-size: 1280% 100%;
   mask-size: 1280% 100%;
   -webkit-animation: mask-play .5s steps(11) reverse;
@@ -617,7 +617,7 @@ header .menu:hover > span{
     position: fixed;
     top: 44px;
     right: 50px;
-    background: url({{ site.url }}/assets/2020/img/close.png) no-repeat;
+    background: url(../img/close.png) no-repeat;
     cursor: pointer;
     background-size: 100%;
 }
