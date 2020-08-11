@@ -1,9 +1,35 @@
 <head>
-  <title>{{ site.title }}</title>
+  <title>{{ page.title }} | {{ site.title }}</title>
   <meta charset="UTF-8">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="keywords" content="steven rodriguez, personal, portfolio, entrepreneur, investor, mentor, advisor, startup, business">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Open Graph data -->
+  <meta property="og:site_name" content="{{ site.title }}" />
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+  {% else %}
+    <meta property="og:title" content="{{ site.title }}">
+  {% endif %}
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.url }}/assets/2020/img/og-steven-01">
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="fb:page_id" content="416316751903540" />
+  <!-- Facebook Card -->
+  <meta property="article:publisher" content="https://www.facebook.com/stvnrco/" />
+  <meta property="article:author" content="https://www.facebook.com/stvnrco/" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@steverodrigz">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:url" content="{{ site.title }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/2020/img/og-tw-steven-01">
+  <meta name="twitter:image:alt" content="{{ site.title }} over black background next to their brand logo">
+  
+  <meta name="keywords" content="steven rodriguez, personal, portfolio, entrepreneur, investor, mentor, advisor, startup, business">
   <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ site.url }}/assets/2020/css/style.css" />
   <!--[if lt IE 9]>
