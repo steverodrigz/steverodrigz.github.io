@@ -908,6 +908,7 @@ footer .back-top i{
     border-bottom: solid 1px #8c8c8c;
     width: 100%;
     margin-bottom: 60px;
+    color: #fff;
     font-size: 15px;
     line-height: 45px;
 }
@@ -917,7 +918,7 @@ footer .back-top i{
     background: none;
     border-bottom: solid 1px #8c8c8c;
     width: 100%;
-    color: #000;
+    color: #fff;
     font-size: 15px;
 }
 
