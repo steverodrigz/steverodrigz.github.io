@@ -2129,6 +2129,14 @@ figure.vimeo a img, figure.youtube a img {
 /* #Contact
 ================================================== */
 
+#g-recaptcha-response {
+	display: block !important;
+	position: absolute;
+	margin: -50px 0 0 0 !important;
+	z-index: -999999;
+	opacity: 0;
+}
+
 .ajax-form input,
 .ajax-form textarea{
 	position:relative;
