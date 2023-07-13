@@ -2,47 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.stevenarodriguez.com/categories/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/exponential-individuals/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/blog/life-happens-for-you/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/personal/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/categories/personal/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/blog/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/writing/</loc>
+    <lastmod>2023-07-12T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.stevenarodriguez.com/blog/brewing-bold-ideas-personal-transformation-meets-entrepreneurial-innovation/</loc>
     <lastmod>2023-06-07T08:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.stevenarodriguez.com/categories/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/tags/exponential-individuals/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.stevenarodriguez.com/tags/exponential-organizations/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/categories/personal/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/blog/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/tags/</loc>
-    <lastmod>2023-06-07T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/tags/writing/</loc>
     <lastmod>2023-06-07T08:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
