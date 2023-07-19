@@ -2,12 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.stevenarodriguez.com/tags/audience-understanding/</loc>
-    <lastmod>2023-07-17T08:00:00-05:00</lastmod>
+    <loc>https://www.stevenarodriguez.com/categories/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.stevenarodriguez.com/categories/</loc>
+    <loc>https://www.stevenarodriguez.com/tags/craft-centricity/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/creator-economy/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/future-of-work/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/kaz-nejatian/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/shopify/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/blog/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/blog/the-alchemy-of-craft-centricity-future-of-work/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/categories/weekly-reflection/</loc>
+    <lastmod>2023-07-19T08:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.stevenarodriguez.com/tags/audience-understanding/</loc>
     <lastmod>2023-07-17T08:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -33,21 +83,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.stevenarodriguez.com/tags/sales-funnels/</loc>
-    <lastmod>2023-07-17T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/</loc>
-    <lastmod>2023-07-17T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/blog/</loc>
-    <lastmod>2023-07-17T08:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.stevenarodriguez.com/tags/</loc>
     <lastmod>2023-07-17T08:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
