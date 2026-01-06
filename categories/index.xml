@@ -4,30 +4,39 @@
     <title>Categories on Steven A. Rodríguez | Small Business Author</title>
     <link>https://www.stevenarodriguez.com/categories/</link>
     <description>Recent content in Categories on Steven A. Rodríguez | Small Business Author</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Aug 2023 08:00:00 -0500</lastBuildDate>
+    
     <atom:link href="https://www.stevenarodriguez.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Weekly Reflection</title>
       <link>https://www.stevenarodriguez.com/categories/weekly-reflection/</link>
       <pubDate>Wed, 02 Aug 2023 08:00:00 -0500</pubDate>
+      
       <guid>https://www.stevenarodriguez.com/categories/weekly-reflection/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Marketing</title>
       <link>https://www.stevenarodriguez.com/categories/marketing/</link>
       <pubDate>Mon, 17 Jul 2023 08:00:00 -0500</pubDate>
+      
       <guid>https://www.stevenarodriguez.com/categories/marketing/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Personal</title>
       <link>https://www.stevenarodriguez.com/categories/personal/</link>
       <pubDate>Wed, 12 Jul 2023 08:00:00 -0500</pubDate>
+      
       <guid>https://www.stevenarodriguez.com/categories/personal/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
