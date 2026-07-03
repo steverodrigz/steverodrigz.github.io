@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.stevenarodriguez.com/sitemap.xml
+Sitemap: https://224-kringle-steverodrigz.netlify.app/sitemap.xml
