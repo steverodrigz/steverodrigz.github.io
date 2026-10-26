@@ -1,7 +1,7 @@
 User-agent: *
 Disallow:
 
-# AI answer engines are welcome. A short guide for them lives at http://localhost:1313/llms.txt
+# AI answer engines are welcome. A short guide for them lives at https://www.stevenarodriguez.com/llms.txt
 User-agent: GPTBot
 User-agent: OAI-SearchBot
 User-agent: ChatGPT-User
@@ -15,4 +15,4 @@ User-agent: Applebot-Extended
 User-agent: CCBot
 Allow: /
 
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://www.stevenarodriguez.com/sitemap.xml
