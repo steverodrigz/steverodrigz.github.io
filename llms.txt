@@ -10,9 +10,9 @@ Steven writes and speaks for founders of 5-to-50-person firms on revenue systems
 
 ## Pages
 
-- [Home](https://www.stevenarodriguez.com/): Selected work, who Steven helps, field notes, speaking, and the newsletter.
-- [About](https://www.stevenarodriguez.com/about/): Background, the roles he has held, how he thinks about AI, speaking and mentoring, testimonials.
-- [Writing](https://www.stevenarodriguez.com/blog/): Book summaries and the short notes that come out of them, grouped by book.
+- [Home](http://localhost:1313/): Selected work, who Steven helps, field notes, speaking, and the newsletter.
+- [About](http://localhost:1313/about/): Background, the roles he has held, how he thinks about AI, speaking and mentoring, testimonials.
+- [Writing](http://localhost:1313/blog/): Book summaries and the short notes that come out of them, grouped by book.
 - [Speaker kit](https://stvnr.co/skit): Bio, headshots, and talk descriptions for event organizers.
 - [Newsletter (Substack)](https://stvnrco.substack.com): Field notes by email. Free.
 
@@ -26,15 +26,15 @@ Steven writes and speaks for founders of 5-to-50-person firms on revenue systems
 
 ## Book summaries
 
-- [Awaken the Giant Within — Summary, Key Lessons, and How to Use Them](https://www.stevenarodriguez.com/blog/awaken-the-giant-within-summary/): A builder's summary of Tony Robbins' book 'Awaken the Giant Within' — decisions, beliefs, the Master System, and how to actually use them.
-- [How to Get Anything You Want: Elsie Lincoln Benedict on the Moods That Build Your Life](https://www.stevenarodriguez.com/blog/how-to-get-anything-you-want/): Elsie Lincoln Benedict's How to Get Anything You Want, in plain terms: how your predominant moods build your outer life — and how to remake them.
-- [Earn the Right: A First-Time Founder's Guide to Starting a Startup](https://www.stevenarodriguez.com/blog/earn-the-right-starting-a-startup/): James Sinclair's Earn the Right framework in plain terms: prove the problem, win the market, and walk backwards from failure.
+- [Awaken the Giant Within — Summary, Key Lessons, and How to Use Them](http://localhost:1313/blog/awaken-the-giant-within-summary/): A builder's summary of Tony Robbins' book 'Awaken the Giant Within' — decisions, beliefs, the Master System, and how to actually use them.
+- [How to Get Anything You Want: Elsie Lincoln Benedict on the Moods That Build Your Life](http://localhost:1313/blog/how-to-get-anything-you-want/): Elsie Lincoln Benedict's How to Get Anything You Want, in plain terms: how your predominant moods build your outer life — and how to remake them.
+- [Earn the Right: A First-Time Founder's Guide to Starting a Startup](http://localhost:1313/blog/earn-the-right-starting-a-startup/): James Sinclair's Earn the Right framework in plain terms: prove the problem, win the market, and walk backwards from failure.
 
 ## Field notes
 
-- [The Atomic ICP: Stop Trying to Boil the Ocean](https://www.stevenarodriguez.com/blog/atomic-icp-stop-boiling-the-ocean/): Aiming at everyone makes you invisible. James Sinclair wants one named persona with a budget and a wound — owned completely.
-- [Clock Speed: The Fastest Learner Wins](https://www.stevenarodriguez.com/blog/clock-speed-fastest-learner-wins/): Forget polish. James Sinclair argues the founder who learns, iterates, and re-releases fastest is the one still standing.
-- [Learned helplessness is the quiet killer](https://www.stevenarodriguez.com/blog/learned-helplessness/): The deadliest belief on a team is that effort won't move the score. Tony Robbins on learned helplessness and how to break it.
+- [The Atomic ICP: Stop Trying to Boil the Ocean](http://localhost:1313/blog/atomic-icp-stop-boiling-the-ocean/): Aiming at everyone makes you invisible. James Sinclair wants one named persona with a budget and a wound — owned completely.
+- [Clock Speed: The Fastest Learner Wins](http://localhost:1313/blog/clock-speed-fastest-learner-wins/): Forget polish. James Sinclair argues the founder who learns, iterates, and re-releases fastest is the one still standing.
+- [Learned helplessness is the quiet killer](http://localhost:1313/blog/learned-helplessness/): The deadliest belief on a team is that effort won't move the score. Tony Robbins on learned helplessness and how to break it.
 
 ## Ventures and resources
 
@@ -49,7 +49,7 @@ Steven writes and speaks for founders of 5-to-50-person firms on revenue systems
 
 ## Optional
 
-- [Archive](https://www.stevenarodriguez.com/archives/): Every note by year.
-- [RSS feed](https://www.stevenarodriguez.com/index.xml): Full post feed.
-- [Sitemap](https://www.stevenarodriguez.com/sitemap.xml): Every URL on the site.
-- [Disclosures and privacy](https://www.stevenarodriguez.com/disclosures/): Affiliate, compliance, and privacy policy.
+- [Archive](http://localhost:1313/archives/): Every note by year.
+- [RSS feed](http://localhost:1313/index.xml): Full post feed.
+- [Sitemap](http://localhost:1313/sitemap.xml): Every URL on the site.
+- [Disclosures and privacy](http://localhost:1313/disclosures/): Affiliate, compliance, and privacy policy.
