@@ -396,5 +396,12 @@
 &lt;p&gt;Be polite – don’t be rude to anyone and respect others. If something you would say would get you bottled on the head offline, please don’t say it here. Remember there is a person behind the screen and that your words affect people.&lt;/p&gt;
 &lt;p&gt;Don’t troll. We appreciate and welcome criticism towards writers here, but comments that add no value to the discussion or that are merely insulting would be deleted without exception.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Steven A. Rodríguez: ecosystem builder and trusted advisor. Roles, how I think about AI, where I speak and mentor, and what people say.</description>
+    </item>
   </channel>
 </rss>
